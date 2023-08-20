@@ -1,4 +1,4 @@
-def sample_func()
+def sample_func():
     x=10
     return x
 
